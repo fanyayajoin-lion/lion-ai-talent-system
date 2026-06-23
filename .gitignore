@@ -1,0 +1,7 @@
+# PowerPoint files for local use (not tracked)
+*.pptx
+*.ppt
+
+# OS
+.DS_Store
+Thumbs.db
